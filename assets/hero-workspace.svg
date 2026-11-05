@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 600"><defs>
+<linearGradient id="metal" x2="0.9" y2="1"><stop stop-color="#fff"/><stop offset=".45" stop-color="#c7d0dd"/><stop offset=".75" stop-color="#edf2f7"/><stop offset="1" stop-color="#9ba9bc"/></linearGradient>
+<linearGradient id="screen" x2="1" y2="1"><stop stop-color="#10265a"/><stop offset=".55" stop-color="#376bd6"/><stop offset="1" stop-color="#b9e1ff"/></linearGradient>
+<linearGradient id="wave" x2=".2" y2="1"><stop stop-color="#e2f5ff"/><stop offset=".45" stop-color="#78baf8"/><stop offset="1" stop-color="#164db9"/></linearGradient>
+<linearGradient id="case" x2="0" y2="1"><stop stop-color="#f1f5fa"/><stop offset="1" stop-color="#b0bdce"/></linearGradient>
+<linearGradient id="dark" x2="1" y2="1"><stop stop-color="#577397"/><stop offset=".5" stop-color="#263e60"/><stop offset="1" stop-color="#152a46"/></linearGradient>
+<filter id="shadow" x="-50%" y="-50%" width="220%" height="240%"><feDropShadow dx="0" dy="20" stdDeviation="16" flood-color="#334c73" flood-opacity=".18"/></filter>
+<filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+<pattern id="keys" width="29" height="29" patternUnits="userSpaceOnUse"><rect x="1" y="1" width="25" height="25" rx="4" fill="#acb8c7"/><rect x="1" y="0" width="25" height="23" rx="4" fill="#fcfdff"/><path d="M8 6h7" stroke="#8291a5" stroke-width="1.2"/></pattern>
+<symbol id="keyboard" viewBox="0 0 460 185"><rect x="0" y="5" width="460" height="180" rx="13" fill="#98a8ba"/><rect width="460" height="178" rx="13" fill="url(#case)"/><rect x="12" y="12" width="436" height="154" rx="7" fill="#a4b1c2"/><rect x="16" y="16" width="428" height="116" fill="url(#keys)"/><g fill="#f8fafc" stroke="#a7b4c4" stroke-width="1"><rect x="16" y="135" width="35" height="25" rx="4"/><rect x="55" y="135" width="35" height="25" rx="4"/><rect x="94" y="135" width="35" height="25" rx="4"/><rect x="133" y="135" width="181" height="25" rx="4"/><rect x="318" y="135" width="35" height="25" rx="4"/><rect x="357" y="135" width="35" height="25" rx="4"/><rect x="396" y="135" width="48" height="25" rx="4"/></g><rect x="16" y="16" width="25" height="23" rx="4" fill="#376bcc"/><rect x="393" y="45" width="51" height="24" rx="4" fill="#d1def1"/><rect x="416" y="74" width="28" height="53" rx="4" fill="#547fbf"/><circle cx="425" cy="7" r="2" fill="#4dcaab"/></symbol>
+</defs>
+<ellipse cx="444" cy="527" rx="328" ry="30" fill="#849ab6" opacity=".15" filter="url(#soft)"/>
+<g filter="url(#shadow)">
+<path d="M434 361h64l14 113h-92z" fill="url(#metal)"/><path d="M399 472h137l22 11c3 4 0 7-5 7H379c-6 0-8-3-3-7z" fill="url(#metal)"/>
+<g transform="translate(108 57) rotate(-5 335 192)"><rect width="649" height="373" rx="17" fill="#9cacbf"/><rect x="2" y="1" width="645" height="368" rx="15" fill="url(#metal)"/><rect x="10" y="10" width="629" height="331" rx="8" fill="#152236"/><rect x="16" y="16" width="617" height="319" rx="4" fill="url(#screen)"/>
+<path d="M16 276C130 366 224 5 441 38c105 17 147 117 192 81v216H16Z" fill="url(#wave)"/>
+<path d="M16 294C197 399 249 44 463 85c87 17 132 103 170 86" fill="none" stroke="#d1edff" stroke-width="2" opacity=".8"/>
+<path d="M16 318C164 377 276 119 449 140c79 10 138 81 184 63v132H16Z" fill="#1356b8" opacity=".42"/>
+<path d="M132 335C234 258 312 157 443 186c67 15 137 82 190 50v99Z" fill="#92cbfd" opacity=".7"/>
+<path d="M16 16h617L16 220Z" fill="#fff" opacity=".05"/><circle cx="325" cy="355" r="3" fill="#8495aa"/></g>
+<g transform="translate(137 429) rotate(-7 230 90) skewX(-18) scale(1 .63)"><use href="#keyboard" width="460" height="185"/></g>
+<g transform="translate(636 423) rotate(16)"><path d="M0 47C0-13 82-13 82 47v66c0 57-82 57-82 0Z" fill="url(#metal)"/><path d="M4 46C4-10 78-10 78 46v64c0 51-74 51-74 0Z" fill="#edf2f8"/><path d="M41 3v64M5 67h72" stroke="#b8c7d9" stroke-width="1.3"/><rect x="36" y="23" width="10" height="26" rx="5" fill="#496a9b"/><path d="M17 125c10 11 34 12 47 0" stroke="#d1dce9" fill="none"/></g>
+</g><g fill="#4771a7" opacity=".45"><circle cx="781" cy="121" r="3"/><circle cx="73" cy="399" r="3"/><path d="M65 127h24m-12-12v24" stroke="#4771a7"/></g></svg>

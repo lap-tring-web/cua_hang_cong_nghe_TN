@@ -1,0 +1,10 @@
+Options -Indexes
+<FilesMatch "(?i)^(\.|.*\.(sql|md|ps1|log))">
+    Require all denied
+</FilesMatch>
+
+# Works both in a subdirectory and at the domain root (Apache mod_rewrite).
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ 404.php [L]

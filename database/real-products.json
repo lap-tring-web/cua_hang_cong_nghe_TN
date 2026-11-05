@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "slug": "logitech-m330-silent-plus",
+    "name": "Chuột không dây Logitech M330 Silent Plus",
+    "original_name": "Chuột không dây TN M1",
+    "source_page": "https://www.logitech.com/en-us/shop/p/m330-silent-plus-mouse",
+    "image_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m330-wireless-silent-mouse/2024-update/gallery/m330-wireless-mouse-top-view-black-gallery-01.png",
+    "description": "Chuột không dây Logitech M330 Silent Plus màu đen, thiết kế dành cho tay phải. Công nghệ SilentTouch giảm tiếng nhấp chuột, phù hợp góc học tập và văn phòng.",
+    "specifications": {
+      "Thương hiệu": "Logitech",
+      "Model": "M330 Silent Plus",
+      "Kết nối": "Không dây qua đầu thu USB",
+      "Công nghệ": "SilentTouch, giảm hơn 90% tiếng nhấp chuột theo hãng",
+      "Pin": "Lên đến 18 tháng tùy cách sử dụng",
+      "Màu sắc": "Đen"
+    },
+    "image": "images/products/logitech-m330-silent-plus.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1600,
+      1374
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 29046,
+    "sha256": "e0e1d96017cf34ab659d9813316792da13d3282d8ac18720171de5d2af55cb20"
+  },
+  {
+    "id": 2,
+    "slug": "keychron-k8",
+    "name": "Bàn phím cơ Keychron K8",
+    "original_name": "Bàn phím cơ TN K2",
+    "source_page": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard",
+    "image_url": "https://www.keychron.com/cdn/shop/products/Keychron-K8-tenkeyless-wireless-mechanical-keyboard-for-Mac-Windows-iOS-RGB-white-backlight-with-Gateron-switch-red.jpg?crop=center&height=1200&v=1622187281&width=1200",
+    "description": "Bàn phím cơ Keychron K8 bố cục TKL gọn gàng, hỗ trợ kết nối Bluetooth và cáp USB-C. Thiết kế phù hợp làm việc, học tập và sử dụng cùng Windows hoặc macOS.",
+    "specifications": {
+      "Thương hiệu": "Keychron",
+      "Model": "K8",
+      "Bố cục": "TKL, 87 phím (ANSI)",
+      "Kết nối": "Bluetooth 5.1 và USB-C có dây",
+      "Kết nối đa thiết bị": "Tối đa 3 thiết bị qua Bluetooth",
+      "Dung lượng pin": "4000 mAh"
+    },
+    "image": "images/products/keychron-k8.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 41764,
+    "sha256": "eb0433f65d334b8d6f1f825ebcfd28c9138cafd2f737de5c15184d3194e03c2e"
+  },
+  {
+    "id": 3,
+    "slug": "keychron-osa-pbt-blue-white",
+    "name": "Bộ keycap Keychron OSA PBT Blue & White",
+    "original_name": "Bộ keycap TN Studio",
+    "source_page": "https://www.keychron.com/products/double-shot-pbt-osa-full-set-keycap-set",
+    "image_url": "https://www.keychron.com/cdn/shop/products/Double-Shot-OSA-PBT-Keycap-Full-Keycap-Set-Blue-and-White.jpg?crop=center&height=1200&v=1764241546&width=1200",
+    "description": "Bộ keycap Keychron chất liệu PBT, ký tự double-shot, profile OSA và phối xanh trắng. Dùng để thay keycap trên bàn phím cơ có switch chuẩn MX tương thích; sản phẩm là bộ keycap, không kèm bàn phím.",
+    "specifications": {
+      "Thương hiệu": "Keychron",
+      "Dòng sản phẩm": "Double Shot PBT OSA Full Set",
+      "Chất liệu": "PBT double-shot",
+      "Profile": "OSA",
+      "Phiên bản": "Full Set 141 phím, Blue and White",
+      "Tương thích": "Switch cơ chân chữ thập MX, chiều cao thông thường"
+    },
+    "image": "images/products/keychron-osa-pbt-blue-white.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 29360,
+    "sha256": "441d07d91115eb73b3f8650c81d2b0fec698aa980a9942bfc9aae045d2a9b98a"
+  },
+  {
+    "id": 4,
+    "slug": "logitech-desk-mat-studio-grey",
+    "name": "Bàn di chuột Logitech Desk Mat Studio Series",
+    "original_name": "Bàn di chuột TN Desk",
+    "source_page": "https://www.logitech.com/en-us/shop/p/desk-mat-studio-series",
+    "image_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/desk-mat-studio-series/gallery/2026-update/logitech-desk-mat-studio-series-mid-grey-top-angle-gallery-1.png",
+    "description": "Tấm lót bàn Logitech Desk Mat Studio Series màu xám, bề mặt mềm cho chuột di chuyển mượt. Đế chống trượt, mép chống tưa và bề mặt kháng nước đổ giúp góc làm việc gọn gàng.",
+    "specifications": {
+      "Thương hiệu": "Logitech",
+      "Dòng sản phẩm": "Desk Mat Studio Series",
+      "Màu sắc": "Mid Grey",
+      "Bề mặt": "Vải mềm, kháng nước đổ",
+      "Đế": "Chống trượt",
+      "Mép viền": "Chống tưa"
+    },
+    "image": "images/products/logitech-desk-mat-studio-grey.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      3840,
+      2160
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 10384,
+    "sha256": "a834a85366d66ff3b357cf3f02538f9761f4aaa7d9262f7dbb1f87b1c94c4431"
+  },
+  {
+    "id": 5,
+    "slug": "logitech-zone-vibe-100",
+    "name": "Tai nghe Bluetooth Logitech Zone Vibe 100",
+    "original_name": "Tai nghe Bluetooth TN T3",
+    "source_page": "https://www.logitech.com/en-us/shop/p/zone-vibe-100-wireless",
+    "image_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/headsets/zone-vibe-100/gallery/zone-vibe-100-gallery-graphite-1.png",
+    "description": "Tai nghe chụp tai không dây Logitech Zone Vibe 100 màu graphite, có micro gập để tắt tiếng. Bluetooth đa điểm và driver 40 mm phù hợp nghe nhạc, họp và học trực tuyến.",
+    "specifications": {
+      "Thương hiệu": "Logitech",
+      "Model": "Zone Vibe 100",
+      "Kết nối": "Bluetooth đa điểm",
+      "Driver": "40 mm",
+      "Thời lượng nghe": "Lên đến 20 giờ tùy điều kiện sử dụng",
+      "Thời lượng đàm thoại": "Lên đến 18 giờ",
+      "Màu sắc": "Graphite"
+    },
+    "image": "images/products/logitech-zone-vibe-100.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1600,
+      1374
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 78980,
+    "sha256": "c806602716e75a45419d92da0243b617c8561dc21d18d17a1c2c93298c2526f1"
+  },
+  {
+    "id": 6,
+    "slug": "logitech-c920s",
+    "name": "Webcam Logitech C920s Pro Full HD",
+    "original_name": "Webcam Full HD TN W5",
+    "source_page": "https://www.logitech.com/en-us/shop/p/c920s-pro-hd-webcam",
+    "image_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c920s/gallery/c920s-gallery-1.png",
+    "description": "Webcam Logitech C920s Pro với video Full HD 1080p, hai micro thu âm stereo và nắp che riêng tư. Ống kính tự động lấy nét, hỗ trợ điều chỉnh ánh sáng cho cuộc họp và lớp học trực tuyến.",
+    "specifications": {
+      "Thương hiệu": "Logitech",
+      "Model": "C920s Pro HD",
+      "Độ phân giải": "1920 × 1080, 30 fps",
+      "Góc nhìn chéo": "78°",
+      "Micro": "Hai micro stereo tích hợp",
+      "Riêng tư": "Nắp che ống kính"
+    },
+    "image": "images/products/logitech-c920s.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1600,
+      1374
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 56378,
+    "sha256": "46fa7fb3632e6c54c84956ebdc46fae718a8cbaa771f9c4e65e342035d9c0bf1"
+  },
+  {
+    "id": 7,
+    "slug": "logitech-z207",
+    "name": "Loa Bluetooth Logitech Z207",
+    "original_name": "Loa Bluetooth TN Mini",
+    "source_page": "https://www.logitech.com/en-us/shop/p/z207-stereo-speakers-bluetooth",
+    "image_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/speakers/z207/gallery/z207-black-gallery-1.png",
+    "description": "Bộ loa máy tính Logitech Z207 màu đen gồm hai loa stereo. Kết nối Bluetooth hoặc ngõ vào 3,5 mm, chuyển đổi giữa thiết bị bằng Easy-Switch; loa sử dụng nguồn điện ngoài.",
+    "specifications": {
+      "Thương hiệu": "Logitech",
+      "Model": "Z207",
+      "Cấu hình": "2.0 stereo",
+      "Công suất": "5 W RMS, 10 W đỉnh",
+      "Kết nối": "Bluetooth và ngõ vào 3,5 mm",
+      "Tính năng": "Easy-Switch giữa hai thiết bị Bluetooth"
+    },
+    "image": "images/products/logitech-z207.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1600,
+      1374
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 76010,
+    "sha256": "cd3b0f3793d9253e455e0c0b51cb6996c193e5191153dbb39bc89b413df0860f"
+  },
+  {
+    "id": 8,
+    "slug": "logitech-snowball-ice",
+    "name": "Micro USB Logitech G Snowball iCE",
+    "original_name": "Micro USB TN Voice",
+    "source_page": "https://www.logitechg.com/en-us/shop/p/snowball-ice-usb-microphone",
+    "image_url": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/streaming-gear/snowball-ice-usb-microphone/2025/gallery/snowball-ice-front-angle-black-gallery-1.png",
+    "description": "Micro USB Logitech G Snowball iCE màu đen, thu âm condenser với hướng thu cardioid. Kết nối plug-and-play và chân đế bàn đi kèm phù hợp ghi âm giọng nói, họp hoặc streaming.",
+    "specifications": {
+      "Thương hiệu": "Logitech G",
+      "Model": "Snowball iCE",
+      "Loại micro": "Condenser",
+      "Hướng thu": "Cardioid",
+      "Kết nối": "USB, plug-and-play",
+      "Màu sắc": "Đen"
+    },
+    "image": "images/products/logitech-snowball-ice.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      2500,
+      2160
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 35026,
+    "sha256": "38b9de93273fbdcd7651041f4c1776f453eb282602e0cc877a12a892ddd3850c"
+  },
+  {
+    "id": 9,
+    "slug": "sandisk-ultra-dual-drive-luxe-64gb",
+    "name": "USB SanDisk Ultra Dual Drive Luxe 64GB",
+    "original_name": "USB 64GB TN U4",
+    "source_page": "https://gearvn.com/products/usb-3-1-sandisk-ultra-dual-drive-luxe-otg-type-c-ddc4-64gb",
+    "image_url": "https://product.hstatic.net/200000722513/product/11375e9d59ca8381ebadd399cec5e883_f1f4b44556eb4cd3a39ba24baa4c67f9_769902259c794a57a9ccc26fd1a59067.png",
+    "description": "USB SanDisk Ultra Dual Drive Luxe dung lượng 64GB, vỏ kim loại với đầu USB Type-A và Type-C. Thiết kế xoay giúp chuyển dữ liệu giữa máy tính và thiết bị USB-C tương thích.",
+    "specifications": {
+      "Thương hiệu": "SanDisk",
+      "Model": "SDDDC4-064G-G46",
+      "Dung lượng": "64GB",
+      "Kết nối": "USB Type-C và Type-A, USB 3.1 Gen 1",
+      "Tốc độ đọc": "Lên đến 150 MB/s theo nguồn sản phẩm",
+      "Chất liệu": "Kim loại, màu bạc"
+    },
+    "image": "images/products/sandisk-ultra-dual-drive-luxe-64gb.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1200,
+      1200
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 52322,
+    "sha256": "cb1b136f5c3e2a3cb2e8ebcb91b1edc3bc60de84316aa75c86ba5f4f100d30e2"
+  },
+  {
+    "id": 10,
+    "slug": "samsung-t7-500gb-red",
+    "name": "SSD di động Samsung T7 500GB Đỏ",
+    "original_name": "SSD di động TN S1",
+    "source_page": "https://www.samsung.com/vn/memory-storage/portable-ssd/t7-500gb-red-external-storage-nvme-1050-mb-s-mu-pc500r-ww/",
+    "image_url": "https://images.samsung.com/is/image/samsung/p6pim/vn/mu-pc500r-ww/gallery/vn-portable-ssd-t7-mu-pc500r-ww-539160416?$1164_776_PNG$",
+    "description": "SSD di động Samsung T7 dung lượng 500GB, phiên bản màu đỏ MU-PC500R/WW. Kết nối USB 3.2 Gen 2, tốc độ đọc lên đến 1.050 MB/s và ghi lên đến 1.000 MB/s trong điều kiện phù hợp.",
+    "specifications": {
+      "Thương hiệu": "Samsung",
+      "Model": "MU-PC500R/WW",
+      "Dung lượng": "500GB",
+      "Kết nối": "USB 3.2 Gen 2, USB-C",
+      "Tốc độ đọc/ghi tối đa": "1.050 / 1.000 MB/s",
+      "Màu sắc": "Đỏ"
+    },
+    "image": "images/products/samsung-t7-500gb-red.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1164,
+      776
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 76104,
+    "sha256": "a794deb398d178783db6d924a17b8802e34d4bb960b5d0d28edbc6a9432733f9"
+  },
+  {
+    "id": 11,
+    "slug": "anker-341-7-in-1",
+    "name": "Hub USB-C Anker 341 7-in-1",
+    "original_name": "Hub USB-C TN Hub",
+    "source_page": "https://www.anker.com/products/a8346",
+    "image_url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/61thMtrP5rL.png?v=1723458964",
+    "description": "Hub USB-C Anker 341 (A8346) mở rộng laptop với HDMI, USB-A, USB-C và khe SD/microSD. Hỗ trợ HDMI 4K 30Hz và sạc truyền tiếp; cần thiết bị chủ hỗ trợ xuất hình qua USB-C để dùng HDMI.",
+    "specifications": {
+      "Thương hiệu": "Anker",
+      "Model": "341 (A8346)",
+      "Số cổng": "7 trong 1",
+      "HDMI": "Tối đa 4K 30Hz",
+      "USB-A": "2 cổng USB 3.0, tối đa 5 Gbps",
+      "Sạc truyền tiếp": "Đầu vào PD 100 W, tối đa 85 W cho laptop",
+      "Khe thẻ nhớ": "SD và microSD"
+    },
+    "image": "images/products/anker-341-7-in-1.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1200,
+      1500
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 47640,
+    "sha256": "0b8ba173ccbf774389b1e27e290a3b4183b91f3f28dbe7d5685b1e6f50217502"
+  },
+  {
+    "id": 12,
+    "slug": "anker-new-nylon-usbc-100w",
+    "name": "Cáp Anker New Nylon USB-C 100W 3m",
+    "original_name": "Cáp sạc nhanh TN Flex",
+    "source_page": "https://www.anker.com/products/a8758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/1_d19b5c52-60a8-4155-acdf-073e64f6d434.png?v=1763545234",
+    "description": "Cáp Anker New Nylon USB-C to USB-C A8758 bọc nylon, chiều dài 10 ft (khoảng 3 m). Hỗ trợ sạc tối đa 100W và truyền dữ liệu USB 2.0; công suất thực tế phụ thuộc bộ sạc và thiết bị.",
+    "specifications": {
+      "Thương hiệu": "Anker",
+      "Model": "A8758, New Nylon USB-C to USB-C",
+      "Chiều dài": "10 ft, khoảng 3 m",
+      "Công suất sạc": "Tối đa 100 W",
+      "Truyền dữ liệu": "Tối đa 480 Mbps",
+      "Vật liệu": "Dây bọc nylon, chip e-Marker"
+    },
+    "image": "images/products/anker-new-nylon-usbc-100w.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1435,
+      1435
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 137512,
+    "sha256": "dc8d2daa82768c7ae93980563bc185440d0e849912f7d659f3f8b5e9214c738b"
+  },
+  {
+    "id": 13,
+    "slug": "deepcool-multi-core-x6",
+    "name": "Đế tản nhiệt DeepCool Multi Core X6",
+    "original_name": "Đế tản nhiệt laptop TN D6",
+    "source_page": "https://www.deepcool.com/products/Cooling/laptopcoolers/2021/11399.shtml",
+    "image_url": "https://www.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/LaptopCoolers/X6/Gallery/1440X850/01.jpg",
+    "description": "Đế tản nhiệt laptop DeepCool Multi Core X6 thiết kế bốn quạt bố trí dạng cánh bướm. Có hai quạt 140 mm và hai quạt 100 mm, sử dụng nguồn USB 5V cho góc làm việc.",
+    "specifications": {
+      "Thương hiệu": "DeepCool",
+      "Model": "Multi Core X6, DP-N422-MCX6",
+      "Số quạt": "4: 2 × 140 mm và 2 × 100 mm",
+      "Kích thước": "380 × 295 × 24 mm",
+      "Khối lượng": "900 g",
+      "Nguồn": "5V DC"
+    },
+    "image": "images/products/deepcool-multi-core-x6.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1440,
+      850
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 88074,
+    "sha256": "7165388472eca3631172a08a8f06304e9cff9a618d187aebf363fc498b3e62f2"
+  },
+  {
+    "id": 14,
+    "slug": "benq-screenbar",
+    "name": "Đèn màn hình BenQ ScreenBar",
+    "original_name": "Đèn màn hình TN Light",
+    "source_page": "https://www.benq.com/en-us/lighting/monitor-light/screenbar.html",
+    "image_url": "https://image.benq.com/is/image/benqco/07screenbar-topleft45-button-3?$ResponsivePreset$",
+    "description": "Đèn treo màn hình BenQ ScreenBar với thiết kế chiếu sáng bất đối xứng giúp hạn chế phản chiếu trên màn hình. Điều chỉnh nhiệt độ màu, tự động cân bằng độ sáng và kẹp gắn giúp tiết kiệm diện tích bàn.",
+    "specifications": {
+      "Thương hiệu": "BenQ",
+      "Model": "ScreenBar",
+      "Nhiệt độ màu": "2700–6500 K",
+      "Điều chỉnh": "Độ sáng và nhiệt độ màu",
+      "Tính năng": "Tự động điều chỉnh ánh sáng môi trường",
+      "Lắp đặt": "Kẹp trên màn hình"
+    },
+    "image": "images/products/benq-screenbar.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1000,
+      1000
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 20860,
+    "sha256": "966a29cb9e6393aa10cdd1234b7a80b80c796ae3839f09e78c34cd686a96202a"
+  },
+  {
+    "id": 15,
+    "slug": "corsair-st100-rgb",
+    "name": "Giá đỡ tai nghe Corsair ST100 RGB",
+    "original_name": "Giá đỡ tai nghe TN Stand",
+    "source_page": "https://www.corsair.com/us/en/p/gaming-gear-accessories/ca-9011167-na/st100-rgb-premium-headset-stand-with-7-1-surround-sound-ca-9011167-na",
+    "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Gaming-Headsets/CA-9011167-NA/Gallery/ST100RGB_01.webp",
+    "description": "Giá đỡ tai nghe Corsair ST100 RGB với khung nhôm và đèn RGB điều khiển bằng iCUE. Tích hợp hai cổng USB-A cùng ngõ âm thanh 3,5 mm hỗ trợ âm thanh vòm ảo 7.1 theo cấu hình tương thích.",
+    "specifications": {
+      "Thương hiệu": "Corsair",
+      "Model": "ST100 RGB, CA-9011167-NA",
+      "Chất liệu": "Nhôm",
+      "Cổng USB": "2 × USB 3.1 Gen 1 Type-A",
+      "Âm thanh": "Ngõ 3,5 mm, hỗ trợ vòm ảo 7.1",
+      "Đèn": "RGB, phần mềm Corsair iCUE"
+    },
+    "image": "images/products/corsair-st100-rgb.webp",
+    "verified_date": "2026-11-03",
+    "original_dimensions": [
+      1100,
+      1100
+    ],
+    "width": 1100,
+    "height": 1100,
+    "bytes": 17178,
+    "sha256": "427f8749cad301d75ceff52248ae93721f6b9c6657575ddb70cabad46422689a"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "source": "desk-top",
+    "file": "about-desk",
+    "width": 1200,
+    "source_page": "https://www.logitech.com/en-us/shop/p/desk-mat-studio-series",
+    "source_image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/desk-mat-studio-series/desktop-mouse-pad-lavender-top-view.png",
+    "subject": "Bàn phím, chuột và phụ kiện trên tấm lót bàn Logitech màu lavender",
+    "dimensions": [
+      1200,
+      675
+    ],
+    "bytes": 103872,
+    "sha256": "1822e2909b170dac6ee3d60a9231e9a8c477b8734096b7a02a8ce368d239b900",
+    "verified_date": "2026-11-03"
+  },
+  {
+    "source": "headphone",
+    "file": "about-everyday",
+    "width": 1000,
+    "source_page": "https://www.logitech.com/en-us/shop/p/zone-vibe-100-wireless",
+    "source_image": "https://resource.logitech.com/content/dam/logitech/en/products/headsets/zone-vibe-100/zone-vibe-100-engineered-for-work.jpg",
+    "subject": "Không gian làm việc sáng tạo với tai nghe Logitech Zone Vibe 100",
+    "dimensions": [
+      1000,
+      562
+    ],
+    "bytes": 57138,
+    "sha256": "d8985180ba8ebff4d3231ddf13bc29b495c3814a62185ece7849d929959bae7f",
+    "verified_date": "2026-11-03"
+  },
+  {
+    "source": "workspace",
+    "file": "workspace",
+    "width": 1600,
+    "source_page": "https://www.logitech.com/en-us/shop/p/desk-mat-studio-series",
+    "source_image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/desk-mat-studio-series/desktop-desk-mat-lavender-front-view-desktop.png",
+    "subject": "Góc làm việc thực tế với màn hình, bàn phím, chuột và tấm lót bàn Logitech",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "bytes": 123710,
+    "sha256": "2a0bfb49a53898c9fe4fa8ce78e13efacd74d09625c50444ebb275fe088dd899",
+    "verified_date": "2026-11-03"
+  },
+  {
+    "source": "keyboard",
+    "file": "keychron-k8-workspace",
+    "width": 1200,
+    "source_page": "https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard",
+    "source_image": "https://www.keychron.com/cdn/shop/files/Keychron_K8_Wireless_Mechanical_Keyboard-3.jpg?v=1788260940",
+    "subject": "Bàn phím Keychron K8 trong góc làm việc nền tối",
+    "dimensions": [
+      1200,
+      675
+    ],
+    "bytes": 62694,
+    "sha256": "620530348f8d31cf10108cc7f10d156514da94578d90856dd36cc81f48523ac1",
+    "verified_date": "2026-11-03"
+  },
+  {
+    "source": "headphone-audio",
+    "file": "logitech-zone-vibe-audio",
+    "width": 1200,
+    "source_page": "https://www.logitech.com/en-us/shop/p/zone-vibe-100-wireless",
+    "source_image": "https://resource.logitech.com/content/dam/logitech/en/products/headsets/zone-vibe-100/zone-vibe-100-immersive-audio-desktop.png",
+    "subject": "Ảnh cận cảnh tai nghe Logitech Zone Vibe 100 màu graphite",
+    "dimensions": [
+      1200,
+      568
+    ],
+    "bytes": 38252,
+    "sha256": "a3535700102f51cfda79171aedb3d1a474f4dd6409c8d16e1bed3e0319301d10",
+    "verified_date": "2026-11-03"
+  }
+]
