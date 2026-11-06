@@ -14,7 +14,7 @@ Cập nhật 05/11/2026: theo xác nhận của sinh viên, yêu cầu đồ án
 ## Yêu cầu theo đề PDF ban đầu
 
 - Tối thiểu **12 sản phẩm, 3 danh mục, 3 tài khoản (gồm 1 admin), 5 đơn ở ít nhất 3 trạng thái**.
-- Video **5–10 phút**, có lời thuyết minh của sinh viên. Kịch bản dự kiến 9:10 phù hợp.
+- Video **5–10 phút**, có lời thuyết minh của sinh viên. Kịch bản quay mới FINAL01 dự kiến 9:35; cần tập và đo để giữ dưới 10 phút.
 - Hoàn tất nộp cả hai nơi trước **23:00 ngày 07/11/2026** theo đề.
 - Kiểm tra ngày 05/11/2026 có **15 sản phẩm, 4 danh mục**; đã đạt yêu cầu số lượng theo PDF. Không cần tăng lên 30 sản phẩm/5 danh mục theo ảnh LMS.
 - Logo cửa hàng là ảnh chân dung sinh viên trên mọi trang, gồm quản trị, theo xác nhận ngày 05/11/2026; avatar theo tài khoản.

@@ -87,7 +87,7 @@ Không đưa .runtime hoặc start-local.ps1 lên hosting. Báo cáo và video c
 
 Thư mục `deliverables` ở thư mục cha chứa báo cáo PDF nháp, ZIP mã nguồn, tệp SQL xuất riêng và ảnh chân dung. ZIP chứa thư mục `thinh-tech`, có đầy đủ `.htaccess` và ảnh sản phẩm; không có `.runtime`.
 
-Kịch bản quay nằm trong `VIDEO_SCRIPT.md`. Báo cáo chưa phải bản nộp cuối vì còn ảnh minh chứng có thanh địa chỉ, ảnh CSDL, ảnh sau hủy đơn và URL video. PDF nháp dùng giao diện cũ; cần thay ảnh sau cập nhật ASUS. Ảnh giao diện mới ở `deliverables/preview` trong thư mục cha. Không cần chờ hosting để chạy và rà soát A–D trên local.
+Kịch bản quay mới FINAL01 nằm trong `VIDEO_SCRIPT.md` (cập nhật 05/11/2026, dự kiến 9:35). Bảng nhắc và dữ liệu/ảnh để chọn nhanh ở `deliverables/QUAY_VIDEO_FINAL01/` trong thư mục cha. Không cần xóa dữ liệu đã test; dùng email mới và hai đơn mới cho lượt quay. Báo cáo chưa phải bản nộp cuối vì còn ảnh minh chứng có thanh địa chỉ, ảnh CSDL, ảnh sau hủy đơn và URL video. PDF nháp dùng giao diện cũ; cần thay ảnh sau cập nhật ASUS. Ảnh giao diện mới ở `deliverables/preview` trong thư mục cha. Không cần chờ hosting để chạy và rà soát A–D trên local.
 
 ## Cập nhật danh mục ảnh thật
 

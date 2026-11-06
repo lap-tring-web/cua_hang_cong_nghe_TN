@@ -56,3 +56,7 @@ Logo cập nhật: TN nét ký đen–trắng, tên Thịnh Nguyễn và dòng T
 Đã thay 15 ảnh minh họa bằng ảnh sản phẩm thực tế, đổi tên/mô tả/thông số tương ứng với sự đồng ý của chủ dự án. Nguồn hãng cho 14 món, GEARVN cho USB SanDisk; ảnh WebP cục bộ và bảng nguồn ở PRODUCT_SOURCES.md. Giữ giá demo, tồn kho, ID, tài khoản, đơn hàng và tên/giá đã chụp tại lúc đặt.
 
 Đã thay banner góc làm việc và hai ô bàn phím/âm thanh bằng ảnh thực tế Logitech/Keychron; ảnh tải về nội bộ, có nguồn, WebP và phiên bản banner 800px cho mobile.
+
+## Kịch bản quay mới 05/11/2026
+
+Đã thay VIDEO_SCRIPT.md bằng lượt FINAL01 dự kiến 9:35 theo đề 5–10 phút: email mới, hai đơn mới tạo ngay trong video (bank/hủy và COD/giao/hoàn tất), không xóa dữ liệu đã test. Kèm lời thuyết minh, đường đi UI, dòng checkout/cancel, bảng nhắc và dữ liệu/ảnh chọn nhanh ở deliverables/QUAY_VIDEO_FINAL01 trong thư mục cha. Chưa quay video; cần sinh viên tập, ghi hình và cung cấp URL trước khi hoàn thiện báo cáo.
